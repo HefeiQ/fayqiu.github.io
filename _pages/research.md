@@ -4,7 +4,7 @@ layout: page
 title: Research
 order: 3
 ---
-
+<!--
 ### Publications \[[citations](http://scholar.google.com/citations?user=zdmnT3sAAAAJ)\]
 
 #### Books
@@ -56,3 +56,5 @@ Dan Simovici &harr;
 Ratko Tošić &harr;
 Joseph Straight &harr;
 [Paul Erd&ouml;s](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s)
+
+--->

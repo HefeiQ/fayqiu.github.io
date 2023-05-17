@@ -5,6 +5,7 @@ title: Teaching
 order: 2
 ---
 
+<!---
 Throughout my student life I had the good fortune of being taught by some exceptional teachers. I not only learned a lot from them, but also developed a keen interest in sharing my knowledge — however little that may be — with others the way in which my instructors did. The great physicist [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman) once remarked, ‘‘I find that teaching and the students keep life going, and I would never accept any position in which somebody has invented a happy situation for me where I don't have to teach. Never.’’ I feel exactly the same way about teaching.
 
 
@@ -62,3 +63,5 @@ Throughout my student life I had the good fortune of being taught by some except
 - [Companion website](http://www.cs.umb.edu/j-- ) for the [Introduction to Compiler Construction in a Java World](http://www.amazon.com/Introduction-Compiler-Construction-Java-World/dp/1439860882) book I have co-authored with Bill Campbell and Bahar Akbal-Deliba&#351;.
 
 - The compiler (called *j--*) that accompanies the book ([GitHub Page](https://github.com/swamiiyer/j--) \| [JavaDoc](https://www.cs.umb.edu/j--/jmm-javadoc) \| [Code Listing](https://www.cs.umb.edu/j--/jmm-code)).
+
+--->
